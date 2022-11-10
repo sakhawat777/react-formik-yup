@@ -3,7 +3,7 @@ import Registration from './components/Registration';
 
 function App() {
 	return (
-		<div className='App'>
+		<div className='App' style={{ marginTop: '50px' }}>
 			<Registration />
 		</div>
 	);
